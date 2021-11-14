@@ -1,7 +1,3 @@
-	File Name: style.css
-	Template Name: Atlas
-	Created By: Designing Media
-	
 
 /*	################################################################
 	2. SKELETON
@@ -220,7 +216,7 @@
 	}
 	
 	.widget a {
-	color: #F7C221;
+	color: #d91b22;
 	}
 	
 	#accordion-second .accordion-heading{
@@ -337,7 +333,7 @@
 	}
 	
 	.progress-bar {
-		background-color: #F7C221;
+		background-color: #d91b22;
 	}
 	
 	/*Main Carousel CSS*/
@@ -393,7 +389,7 @@
 	}
 
 	.brand-content {
-		background-color:rgba(217, 151, 35, 0.85);
+		background-color:#d91b22;
 		padding: 30px 32px;
 		font-size: 14px;
 		margin-right: -25px;
@@ -436,7 +432,7 @@
 	}
 
 	a.navbar-brand {
-		color: #F7C221 !important;
+		color: #d91b22!important;
 		font-weight: 700 !important;
 		font-size: 26px !important;
 	}
@@ -542,12 +538,12 @@
 	}
 	
 	.sliderbigtitle hr {
-		border-color: #F7C221;
+		border-color: #d91b22;
 		width: 40%;
 		}
 
 	.slidersmalltitle hr {
-		border-color: #F7C221;
+		border-color: #d91b22;
 		width: 40%;
 		}
 
@@ -563,7 +559,7 @@
 	}
 	
 	#owl-intro h2 hr {
-		border-color:#F7C221;
+		border-color:#d91b22;
 		width:40%;
 	}
 	
@@ -594,7 +590,7 @@
 		font-size: 40px;
 	}
 	.feature-wrapper .fa {
-		color: #F7C221;
+		color: #d91b22;
 		font-size: 16px;
 		font-weight: bold;
 		padding-right: 15px !important;
@@ -797,7 +793,7 @@
 		background: rgba(255, 255, 255, 1) !important;
 		width: 6px !important;
 		height: 6px !important;
-		border: 5px solid #F7C221 !important;
+		border: 5px solid #d91b22!important;
 	}
 	.tparrows:before {
 		font-family: 'revicons';
@@ -816,8 +812,8 @@
 	.tparrows {
 		border-radius:0 !important;
 		opacity: 1 !important;
-		background-color: #F7C221 !important;
-		border-color: #F7C221 !important;
+		background-color: #d91b22!important;
+		border-color: #d91b22!important;
 	}
 	.slides-navigation a,
 	.tp-leftarrow, 
@@ -1035,13 +1031,13 @@
 	.how-box-head h3 {
 		margin: 0px 0;
 		font-size: 16px;
-		color: #F7C221;
+		color: #d91b22;
 		font-weight: 500;
 	}
 	
 	.about-border .fa {
 	font-size: 40px;
-	color: #F7C221;
+	color: #d91b22;
 	}
 	
 /*	################################################################
@@ -1096,7 +1092,7 @@
 	
 	.service-border .fa {
 		font-size: 40px;
-		color: #F7C221;
+		color: #d91b22;
 		}
 		 
 /*	################################################################
@@ -1149,7 +1145,7 @@
 		font-weight: 600;
 		font-size: 26px;
 		color: #3C3B3B;
-		border: 1px dashed #F7C221;
+		border: 1px dashed #d91b22;
 		display: inline-block;
 		padding: 20px;
 	}
@@ -1164,7 +1160,7 @@
 	.testimonial h1 {
 		font-weight: 700;
 		font-size: 15px;
-		color: #F7C221;
+		color: #d91b22;
 		text-transform: uppercase;
 		padding-bottom: 30px;
 	}
@@ -1394,7 +1390,7 @@
 	################################################################# */
 	
 	.pricing-box:hover {
-		border-top: 1px solid #F7C221;
+		border-top: 1px solid #d91b22;
 	
 	}
 	
@@ -1423,7 +1419,7 @@
 	}
 	
 	.pricing-box:hover {
-		color: #F7C221;
+		color: #d91b22;
 	}
 	
 	div.price {
@@ -1475,7 +1471,7 @@
 		white-space: nowrap;
 		background: 0 0;
 		color: #292723!important;
-		border: 1px dashed #F7C221;
+		border: 1px dashed #d91b22;
 		margin-top: 30px;
 		text-transform: uppercase;
 	}
@@ -1574,7 +1570,7 @@
 	}
 	
 	.social-icons .fa {
-		color: #F7C221;
+		color: #d91b22;
 		}
 		
 /*	################################################################
@@ -1671,7 +1667,7 @@
 		white-space: nowrap;
 		background: 0 0;
 		color: #292723!important;
-		border: 1px dashed #F7C221;
+		border: 1px dashed #d91b22;
 		margin-top: 30px;
 		text-transform: uppercase;
 	}
@@ -1696,7 +1692,7 @@
 	
 	.btn-contact:hover {
 		background: none !important;
-		border-color: #F7C221 !important;
+		border-color: #d91b22!important;
 	}
 	
 	
@@ -1706,9 +1702,9 @@
 		border: 1px dashed #FFF !important;
 		text-transform: uppercase;
 		padding: 10px;
-		border: 1px dashed #F7C221 !important;
+		border: 1px dashed #d91b22!important;
 		letter-spacing: 3px;
-		color: #F7C221 !important;
+		color: #d91b22!important;
 	}
 	
 	.nav-tabs > li > a {
@@ -1789,8 +1785,8 @@
 		
 	.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
 	color: #FFF !important;
-	background-color: #F7C221 !important;
-	border-color: #F7C221 !important;
+	background-color: #d91b22!important;
+	border-color: #d91b22!important;
 	}
 	
 	.error_message {
@@ -1799,7 +1795,7 @@
 	
 	.contact-box .fa {
 		font-size: 40px;
-		color: #F7C221;
+		color: #d91b22;
 	}
 			
 	
@@ -2072,7 +2068,7 @@
 	.pricing-box:hover .price-value,
 	.pricing-box:hover .price-month,
 	.hovereffect h5  {
-		color:#F7C221;
+		color:#d91b22;
 	}
 	.navbar-default .navbar-nav > li > a:hover,
 	.navbar-default .navbar-nav > li > a:focus,
@@ -2082,7 +2078,7 @@
 	.navbar-default .navbar-nav > .active > a:hover, 
 	.navbar-default .navbar-nav > .active > a:focus,
 	.transparent .title h2 {
-		border-color:#F7C221;
+		border-color:#d91b22;
 	}
 	
 		
@@ -2146,7 +2142,7 @@
 	}
 	
 	.blog-carousel-header a {
-		color: #F7C221;
+		color: #d91b22;
 	}
 	
 	.recentpost-list {
@@ -2179,7 +2175,7 @@
 	}
 	
 	.recentpost-list li h4 a:hover {
-		color: #F7C221;
+		color: #d91b22;
 	}
 	
 	.recentpost-list li span {
@@ -2211,12 +2207,12 @@
 	}
 	
 	.category-list li a:hover {
-		color: #F7C221;
+		color: #d91b22;
 		text-decoration:none !important;
 	}
 	
 	.category-list li:hover {
-		border-left: 1px solid #F7C221;
+		border-left: 1px solid #d91b22;
 		
 	}
 	
@@ -2241,8 +2237,8 @@
 	}
 	
 	.tags-list li a:hover {
-		background: #F7C221;
-		border: 1px dashed #F7C221;
+		background: #d91b22;
+		border: 1px dashed #d91b22;
 		color: #fff;
 	}
 	
@@ -2255,7 +2251,7 @@
 	.blog-ico i {
 		width: 70px;
 		height: 70px;
-		color: #F7C221;
+		color: #d91b22;
 		font-size: 40px;
 		line-height: 70px;
 	}
@@ -2298,7 +2294,7 @@
 	}
 	
 	article h4 a:hover {
-		color: #F7C221;
+		color: #d91b22;
 	}
 	
 	
@@ -2311,7 +2307,7 @@
 	
 	.post-meta a {
 		font-size: 12px;
-		color: #F7C221;
+		color: #d91b22;
 		font-weight: 500;
 	}
 	
@@ -2378,7 +2374,7 @@
 	}
 	
 	.comment-section h6 hr {
-		border-color: #F7C221;
+		border-color: #d91b22;
 		width: 30%;
 	}
 	
@@ -2447,7 +2443,7 @@
 	
 	.reply {
 		font-size: 12px;
-		color: #F7C221;
+		color: #d91b22;
 		font-weight: 500;
 		text-align: center;
 		text-transform: uppercase;
@@ -2460,7 +2456,7 @@
 	}
 	
 	.reply:hover {
-		color: #F7C221;
+		color: #d91b22;
 	}
 	
 	
@@ -2476,7 +2472,7 @@
 	/* Blog Page Header */
 		
 	.post-wrapper-top {
-		background: rgba(217, 151, 35, 0.85);
+		background: #d91b22;
 		border: 3px solid #efefef;
 		bottom: 0;
 		left: 0;
